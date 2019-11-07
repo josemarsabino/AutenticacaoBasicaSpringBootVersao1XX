@@ -9,3 +9,5 @@ Caso a versão do SpringBoot seja 2.XX o método abaixo tem que ser alterado. No
 	
 	}
 	
+Utilizando autentiação básica será necessário apenas uma classe para fazer com que a mesma funcione. No caso a classe :
+SecurityConfig
